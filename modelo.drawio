@@ -33,7 +33,7 @@
           <mxGeometry x="350" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-5" value="Inventario" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="660" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="690" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Fdn9_1kDD7aw7KvLnDt-6" target="7Fdn9_1kDD7aw7KvLnDt-3">
           <mxGeometry relative="1" as="geometry" />
@@ -70,6 +70,9 @@
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-23" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fdn9_1kDD7aw7KvLnDt-24" value="Existe" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
