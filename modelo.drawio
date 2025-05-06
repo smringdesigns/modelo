@@ -7,32 +7,36 @@
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Fdn9_1kDD7aw7KvLnDt-1" target="7Fdn9_1kDD7aw7KvLnDt-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="165" />
-              <mxPoint x="90" y="165" />
-              <mxPoint x="90" y="100" />
+              <mxPoint x="80" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-1" value="Cliente" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="30" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="29" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-2" value="Editorial" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-3" value="Pedido" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-4" value="Libro" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-5" value="Inventario" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="100" height="40" as="geometry" />
+          <mxGeometry x="600" y="80" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Fdn9_1kDD7aw7KvLnDt-6" target="7Fdn9_1kDD7aw7KvLnDt-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-6" value="Compra" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fdn9_1kDD7aw7KvLnDt-10" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fdn9_1kDD7aw7KvLnDt-11" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
