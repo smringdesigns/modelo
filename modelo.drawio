@@ -5,13 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-1" value="Cliente" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-2" value="Editorial" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="280" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Fdn9_1kDD7aw7KvLnDt-3" value="Pedido" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fdn9_1kDD7aw7KvLnDt-4" value="Entity" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fdn9_1kDD7aw7KvLnDt-5" value="Inventario" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
